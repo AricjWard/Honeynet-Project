@@ -232,8 +232,4 @@ NSG Inbound Malicious Flows Allowed |	0
 ---
 
 # Conclusion
-
-The  exemplified the tangible implementation of cybersecurity strategies. Through the creation of an Azure-based environment mimicking susceptible systems, I immersed myself in authentic malicious activity, deepening my comprehension of vulnerabilities, threats, and incident response. By actively utilizing tools such as **Azure Sentinel**, formulating **Kusto Query Language** queries, and adhering to **NIST** guidelines, I not only refined my abilities but also garnered a profound insight into pragmatic security practices. I remain committed to continuous self-education, and this project stands as a testament to my ongoing pursuit of knowledge in the field.
-
-
 The **CloudHoneynet project** project was a hands-on journey into the world of cybersecurity, offering real-world applications of protective techniques. Building an Azure-based environment that mimicked vulnerable systems, I delved into actual malicious traffic, gaining invaluable insights into vulnerabilities, threats, and how to respond to incidents. Working with tools like **Azure Sentinel** and crafting **Kusto Query Language** queries, while following **NIST** guidelines, not only honed my skills but also deepened my understanding of practical security measures. Every day, I push myself to learn more, and this project is just one example of my ongoing quest for knowledge and growth in this field.
